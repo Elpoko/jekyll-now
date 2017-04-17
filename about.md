@@ -16,6 +16,6 @@ Some blogs I like the feel of:
 
 I wanted something simple for a blog/website, but also more open to experimentation than Wordpress, so this new departure is hosted on Github Pages and Jekyll.  Using Jekyll-Now to simplify things.
 
-Twitter: [@fusorfusion](twitter.com/fusorfusion)
+Twitter: [@fusorfusion](https://twitter.com/fusorfusion)
 
 Email: tommccarthyprojects at gmail
