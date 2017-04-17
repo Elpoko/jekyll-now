@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm Tom, a teenager from Ireland.
 
-I've set this website up to take over from an old one, tommccarthyprojects.com, which dealt mainly with my Fusor project.  I've got other projects and interests running too though, and there should be posts here about more than just the Fusor.  The website's function is mainly to provide a reference for applications and conversations where I can point people to and showcase what I am doing/have done.  It can build an audience for my projects, and help me get advice on things for improving.
+I've set this website up to take over from an old one, tommccarthyprojects.com, which dealt mainly with my Fusor project.  I've got other projects and interests running too though, and there should be posts here about more than just the Fusor.
 
 Some blogs I like the feel of:
 
