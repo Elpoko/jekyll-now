@@ -18,6 +18,6 @@ A D-sub soldering socket/connector from Farnell linked the pin connections and e
 
 The setup was tested with Dad's compressor, and the MFC was reading flow rates just fine, but not responding to them.  I.e there was no control of flow, just reading and response.  I couldn't figure out what was wrong after checking everything with a multimeter and oscilloscope and posted on fusor.net.  Quickly figured out the HFM-300 is only a mass flow meter, and not a controller.  Whoops.  Everything was set up fine, just the device doesn't actually have any capability to control flow and is not an actual MFC.  It was listed as an MFC, but I guess I didn't do my research to confirm it.
 
-Next steps are to buy an actual MFC, and package everything up a bit nicer for ease of use.  The Arduino Uno will be replaced with a cheap Nano.  Most MFCs have almost identical control schemes, so the bulk of the work is done and there'll just be minor adjustments to cater to the specifics of whatever replacement model I get.
+Next steps are to buy an actual MFC, and package everything up a bit nicer for ease of use, it looks a bit hectic at the moment.  The Arduino Uno will be replaced with a cheap Nano.  Most MFCs have almost identical control schemes, so the bulk of the work is done and there'll just be minor adjustments to cater to the specifics of whatever replacement model I get.
 
 Thanks to [Sam Zeloof](http://sam.zeloof.xyz) and Andy Busse for their help.
