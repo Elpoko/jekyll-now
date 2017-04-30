@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-4-30
-title: "Irregular Gaskets"
+title: "Irregular Conflat Gaskets"
 ---
 
 I ran into a bit of trouble recently with an irregularly sized conflat port, still working through it:
