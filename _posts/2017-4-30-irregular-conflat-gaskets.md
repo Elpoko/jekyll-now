@@ -18,4 +18,4 @@ Having to work with an irregular sized fitting means gaskets can't be ordered fr
 
 Giving up on standard sizes, I was pointed in the direction of [copper crush gaskets](http://www.ebay.com/bhp/copper-crush-washers) and ordered a set of 30mm.  These arrived, and I grinded one down to fit and bolted up the flanges.  Promptly met with the hiss of a leak when I turned on the RV3 (forepump).  Got the right OD and ID, but neglected to check the gasket thickness and the gasket was too thin and had some wiggle room to avoid sealing.  
 
-Time to get some 30mm OD, 22mm ID, 2mm thick copper gaskets.  Hoping I don't get something wrong again.  Irregular sizings are a pain in the ass.
+Time to get some 30mm OD, 22mm ID, 2mm thick copper gaskets.  Hoping I don't get something wrong again.  Irregular sizings are a pain.
