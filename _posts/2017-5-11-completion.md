@@ -12,8 +12,6 @@ Overall, the project took up a decent amount of time and effort.  Of course, the
 
 When I finished the last session, it was not so much a sigh of relief that nothing had gone catastrophically wrong, but a calm fulfilment in that this venture had been brought to fruition, with no loose ends.  I suppose it's the same thing as finishing any job or task, something as everyday as finishing a homework question brings a certain satisfaction too - that's finished, done, complete.  However, the scale in this sense is far different; something that runs for months as opposed to 5 minutes with a pen and the sheer magnitude of work done is disproportionate.  The feeling was a happy contentment that good work was done.  Completion.  I'd like to stress that it wasn't the weight lifted from your mind when you're piled with things to do, more positive than that.  Maybe it's comparable to an album versus a single song, an amalgamation of all the pieces to a single big one.
 
-I thought it was similar to the feeling of progress when you make headway in a large project.  Like with the Fusor, I feel motivated, encouraged, happy when I get something significant done, I feel content that I am moving in the right direction.  However, in the case of completing the project, it's the whole package, everything.
-
-Reaching the destination.
+I thought it was similar to the feeling of progress when you make headway in a large project.  Like with the Fusor, I feel motivated, encouraged, happy when I get something significant done, I feel content that I am moving in the right direction, but there is still more to do.  However, in the case of completing the project, it's the whole package, reachin the destination.
 
 [Sin é.](http://www.irishgaelictranslator.com/translation/topic44108.html)
