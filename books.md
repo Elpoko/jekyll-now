@@ -4,6 +4,10 @@ title: Books
 permalink: /books/
 ---
 
+King Leopold's Ghost - Hochchild
+
+Hiroshima - Chesnow
+
 How Much Land Does A Man Need + What Men Live By - Tolstoy
 
 Secrets And Lies - Schneier
