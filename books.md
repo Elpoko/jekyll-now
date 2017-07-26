@@ -4,7 +4,11 @@ title: Books
 permalink: /books/
 ---
 
-King Leopold's Ghost - Hochchild
+Hillbilly Elegy - Vance
+
+Narcissus And Goldmund - Hesse
+
+King Leopold's Ghost - Hochschild
 
 Hiroshima - Chesnow
 
