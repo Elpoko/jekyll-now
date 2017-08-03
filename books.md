@@ -4,6 +4,8 @@ title: Books
 permalink: /books/
 ---
 
+A Bend In The River - Naipul
+
 Hillbilly Elegy - Vance
 
 Narcissus And Goldmund - Hesse
