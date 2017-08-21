@@ -4,6 +4,10 @@ title: Books
 permalink: /books/
 ---
 
+Zero To One - Thiel
+
+Where Wizards Stay Up Late - Hafner
+
 A Bend In The River - Naipul
 
 Hillbilly Elegy - Vance
