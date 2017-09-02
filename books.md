@@ -4,6 +4,10 @@ title: Books
 permalink: /books/
 ---
 
+Cities Of The Plain - McCarthy
+
+The Crossing - McCarthy
+
 Zero To One - Thiel
 
 Where Wizards Stay Up Late - Hafner
