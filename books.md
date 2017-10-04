@@ -4,6 +4,8 @@ title: Books
 permalink: /books/
 ---
 
+Deep Work - Cal Newport
+
 Cities Of The Plain - McCarthy
 
 The Crossing - McCarthy
