@@ -4,6 +4,8 @@ title: Books
 permalink: /books/
 ---
 
+What I Know About Running Coffee Shops - Colin Harmon
+
 Deep Work - Cal Newport
 
 Cities Of The Plain - McCarthy
