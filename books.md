@@ -4,6 +4,10 @@ title: Books
 permalink: /books/
 ---
 
+iWoz - Wozniak
+
+Homo Deus - Harari
+
 What I Know About Running Coffee Shops - Colin Harmon
 
 Deep Work - Cal Newport
