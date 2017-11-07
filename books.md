@@ -4,6 +4,8 @@ title: Books
 permalink: /books/
 ---
 
+Milennial Money - O'Shaughnessy
+
 iWoz - Wozniak
 
 Homo Deus - Harari
