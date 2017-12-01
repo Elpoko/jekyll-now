@@ -4,6 +4,8 @@ title: Books
 permalink: /books/
 ---
 
+Einstein - Isaacson
+
 Milennial Money - O'Shaughnessy
 
 iWoz - Wozniak
