@@ -4,6 +4,8 @@ title: Books
 permalink: /books/
 ---
 
+Catcher in the Rye - Salinger
+
 Einstein - Isaacson
 
 Milennial Money - O'Shaughnessy
