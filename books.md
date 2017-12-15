@@ -4,6 +4,8 @@ title: Books
 permalink: /books/
 ---
 
+The Attention Merchants - Wu
+
 Catcher in the Rye - Salinger
 
 Einstein - Isaacson
