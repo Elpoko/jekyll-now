@@ -5,7 +5,7 @@ permalink: /books/
 ---
 
 The Black Swan - Taleb
---
+'18^
 The Attention Merchants - Wu
 
 Catcher in the Rye - Salinger
