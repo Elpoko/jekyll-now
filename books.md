@@ -4,6 +4,8 @@ title: Books
 permalink: /books/
 ---
 
+The Black Swan - Taleb
+
 The Attention Merchants - Wu
 
 Catcher in the Rye - Salinger
