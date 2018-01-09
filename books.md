@@ -4,6 +4,10 @@ title: Books
 permalink: /books/
 ---
 
+Black Hawk Down - Bowden
+
+Heart of Darkness - Conrad
+
 The Black Swan - Taleb
 
 '18^
