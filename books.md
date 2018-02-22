@@ -4,6 +4,10 @@ title: Books
 permalink: /books/
 ---
 
+
+
+Oppenheimer, American Prometheus - Bird + Sherwin
+
 Black Hawk Down - Bowden
 
 Heart of Darkness - Conrad
@@ -57,3 +61,7 @@ All The Pretty Horses - Cormac McCarthy
 Structures: Or Why Things Don't Fall Down - J.E.  Gordon
 
 The Sports Gene - Brian Epstein
+
+Antifragile - Taleb
+
+Matterhorn - Marlantes
