@@ -4,7 +4,11 @@ title: Books
 permalink: /books/
 ---
 
+Only The Paranoid Survive - Grove
 
+The Old Man of The Moon - Shen Fu
+
+Second Hand Time - Alexievich
 
 Oppenheimer, American Prometheus - Bird + Sherwin
 
