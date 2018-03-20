@@ -12,6 +12,8 @@ The first problem of the first Superbrain is a magic square style one.  Given a 
 
 Having found a solution I figured it wouldn't be too complex to find all solutions.  There's probably something very similar already on Project Euler etc.  If you represent the square as an array of length 9, all permutations of [1, 2, 3, 4, 5, 6, 7, 8, 9] correspond to a unique arrangement of numbers in the square.  Mapping each permutation to an array containing the sums of the rows, columns and diagonals of that array is the next step.  Then all solutions are those permutations which give a sum array that has only unique elements.  Say, if the sum array contained 15 twice, then you know two of the rows/columns/diagonals add to 15, which is not a solution.
 
+Python code [here](../hello.py)
+
 It took me an hour or so to get a result, using Python 3.  I haven't programmed in months, and never used Python before.  Nonetheless, it was a nice way to get back into coding, and into Python too.  In the past, I've mainly used Ruby (on Rails), but Python is the language of choice for quantum computing kits, so I'm as well off to get acquainted with it.
 
 ~~I'm rushing to write this before heading to bed, would like to rewrite with concepts better explained and attach the code I wrote.~~ 
