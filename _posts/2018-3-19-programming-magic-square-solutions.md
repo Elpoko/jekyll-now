@@ -14,4 +14,4 @@ Having found a solution I figured it wouldn't be too complex to find all solutio
 
 It took me an hour or so to get a result, using Python 3.  I haven't programmed in months, and never used Python before.  Nonetheless, it was a nice way to get back into coding, and into Python too.  In the past, I've mainly used Ruby (on Rails), but Python is the language of choice for quantum computing kits, so I'm as well off to get acquainted with it.
 
-I'm rushing to write this before heading to bed, would like to rewrite with concepts better explained and attach the code I wrote. 
+~~I'm rushing to write this before heading to bed, would like to rewrite with concepts better explained and attach the code I wrote.~~ 
