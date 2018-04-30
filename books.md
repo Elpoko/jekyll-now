@@ -4,6 +4,10 @@ title: Books
 permalink: /books/
 ---
 
+The Big Short - Lewis
+
+Skin In The Game - Taleb
+
 Sapiens - Harari
 
 Only The Paranoid Survive - Grove
@@ -71,3 +75,5 @@ The Sports Gene - Brian Epstein
 Antifragile - Taleb
 
 Matterhorn - Marlantes
+
+Liar's Poker - Lewis
