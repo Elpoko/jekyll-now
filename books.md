@@ -4,6 +4,8 @@ title: Books
 permalink: /books/
 ---
 
+Chernobyl Prayer - Alexievich
+
 The Big Short - Lewis
 
 Skin In The Game - Taleb
