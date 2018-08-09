@@ -4,6 +4,20 @@ title: Books
 permalink: /books/
 ---
 
+The Hard Thing About Hard Things - Horowitz
+
+My Year of Rest and Relaxation - Moshfegh
+
+Eccentric Orbits - Bloom
+
+The Character of Physical Law - Feynman
+
+How To Solve It - Polya
+
+Theoretical Minimum/Quantum Mechanics - Susskind
+
+Old Goriot - Balzac
+
 Chernobyl Prayer - Alexievich
 
 The Big Short - Lewis
