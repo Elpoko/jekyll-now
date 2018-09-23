@@ -4,6 +4,12 @@ title: Books
 permalink: /books/
 ---
 
+When Genius Failed - Lowenstein
+
+Fools' Gold - Gillian Tett
+
+Elements of Eloquence - Forsyth
+
 The Hard Thing About Hard Things - Horowitz
 
 My Year of Rest and Relaxation - Moshfegh
